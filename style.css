@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+
+    background-image: url('background.jpg');
+}
+.head{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+#song{
+    font-size: 23px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 185px;
+}
